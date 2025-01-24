@@ -1,0 +1,153 @@
+The reader 2 took the book 0.
+The reader 2 took the book 2.
+The reader 1 couldn't take the book 0 (busy).
+The reader 2 took the book 3.
+The reader 1 couldn't take the book 2 (busy).
+The reader 3 couldn't take the book 0 (busy).
+The reader 2 started reading a book(-s): 0 2 3 
+The reader 1 couldn't take the book 3 (busy).
+The reader 1 waits for some time before a special visit for missing books.
+The reader 4 couldn't take the book 0 (busy).
+The reader 3 couldn't take the book 2 (busy).
+The reader 5 couldn't take the book 0 (busy).
+The reader 3 couldn't take the book 3 (busy).
+The reader 4 couldn't take the book 2 (busy).
+The reader 6 couldn't take the book 0 (busy).
+The reader 3 waits for some time before a special visit for missing books.
+The reader 4 couldn't take the book 3 (busy).
+The reader 5 couldn't take the book 2 (busy).
+The reader 4 waits for some time before a special visit for missing books.
+The reader 5 couldn't take the book 3 (busy).
+The reader 6 couldn't take the book 2 (busy).
+The reader 5 waits for some time before a special visit for missing books.
+The reader 6 couldn't take the book 3 (busy).
+The reader 6 waits for some time before a special visit for missing books.
+The reader 2 returned the book 0.
+The reader 2 returned the book 2.
+The reader 2 returned the book 3.
+The reader 1 received a notification about the availability of the book 0 and took it.
+The reader 1 started reading a book(-s): 0 
+The reader 2 took the book 2.
+The reader 2 started reading a book(-s): 2 
+The reader 1 returned the book 0.
+The reader 5 received a notification about the availability of the book 0 and took it.
+The reader 5 started reading a book(-s): 0 
+The reader 2 returned the book 2.
+The reader 1 received a notification about the availability of the book 2 and took it.
+The reader 1 started reading a book(-s): 2 
+The reader 5 returned the book 0.
+The reader 6 received a notification about the availability of the book 0 and took it.
+The reader 6 started reading a book(-s): 0 
+The reader 3 exceeded the book waiting time 0.
+The reader 4 exceeded the book waiting time 0.
+The reader 1 returned the book 2.
+The reader 5 received a notification about the availability of the book 2 and took it.
+The reader 1 received a notification about the availability of the book 3 and took it.
+The reader 5 started reading a book(-s): 2 
+The reader 1 started reading a book(-s): 3 
+The reader 6 returned the book 0.
+The reader 1 returned the book 3.
+The reader 5 returned the book 2.
+The reader 5 received a notification about the availability of the book 3 and took it.
+The reader 6 received a notification about the availability of the book 2 and took it.
+The reader 5 started reading a book(-s): 3 
+The reader 6 started reading a book(-s): 2 
+The reader 4 couldn't take the book 2 (busy).
+The reader 4 waits for some time before a special visit for missing books.
+The reader 3 couldn't take the book 2 (busy).
+The reader 3 waits for some time before a special visit for missing books.
+The reader 2 took the book 1.
+The reader 2 couldn't take the book 2 (busy).
+The reader 2 couldn't take the book 3 (busy).
+The reader 2 started reading a book(-s): 1 
+The reader 6 returned the book 2.
+The reader 5 returned the book 3.
+The reader 6 received a notification about the availability of the book 3 and took it.
+The reader 6 started reading a book(-s): 3 
+The reader 2 returned the book 1.
+The reader 2 waits for some time before a special visit for missing books.
+The reader 1 took the book 1.
+The reader 1 took the book 2.
+The reader 1 couldn't take the book 3 (busy).
+The reader 1 started reading a book(-s): 1 2 
+The reader 6 returned the book 3.
+The reader 1 returned the book 1.
+The reader 1 returned the book 2.
+The reader 1 waits for some time before a special visit for missing books.
+The reader 3 received a notification about the availability of the book 2 and took it.
+The reader 3 started reading a book(-s): 2 
+The reader 5 took the book 1.
+The reader 5 couldn't take the book 2 (busy).
+The reader 5 took the book 3.
+The reader 5 started reading a book(-s): 1 3 
+The reader 6 couldn't take the book 1 (busy).
+The reader 6 couldn't take the book 2 (busy).
+The reader 6 couldn't take the book 3 (busy).
+The reader 6 waits for some time before a special visit for missing books.
+The reader 5 returned the book 1.
+The reader 5 returned the book 3.
+The reader 5 waits for some time before a special visit for missing books.
+The reader 1 received a notification about the availability of the book 3 and took it.
+The reader 1 started reading a book(-s): 3 
+The reader 6 received a notification about the availability of the book 1 and took it.
+The reader 1 returned the book 3.
+The reader 6 started reading a book(-s): 1 
+The reader 3 returned the book 2.
+The reader 4 received a notification about the availability of the book 2 and took it.
+The reader 4 started reading a book(-s): 2 
+The reader 1 took the book 0.
+The reader 1 couldn't take the book 1 (busy).
+The reader 1 couldn't take the book 2 (busy).
+The reader 1 started reading a book(-s): 0 
+The reader 6 returned the book 1.
+The reader 1 returned the book 0.
+The reader 1 waits for some time before a special visit for missing books.
+The reader 2 exceeded the book waiting time 2.
+The reader 2 completed his visits to the library.
+The reader 4 returned the book 2.
+The reader 3 took the book 1.
+The reader 6 received a notification about the availability of the book 2 and took it.
+The reader 6 started reading a book(-s): 2 
+The reader 3 couldn't take the book 2 (busy).
+The reader 3 took the book 3.
+The reader 3 started reading a book(-s): 1 3 
+The reader 5 exceeded the book waiting time 2.
+The reader 3 returned the book 1.
+The reader 6 returned the book 2.
+The reader 3 returned the book 3.
+The reader 3 waits for some time before a special visit for missing books.
+The reader 6 received a notification about the availability of the book 3 and took it.
+The reader 6 started reading a book(-s): 3 
+The reader 1 received a notification about the availability of the book 1 and took it.
+The reader 1 started reading a book(-s): 1 
+The reader 5 took the book 2.
+The reader 5 started reading a book(-s): 2 
+The reader 6 returned the book 3.
+The reader 5 returned the book 2.
+The reader 3 received a notification about the availability of the book 2 and took it.
+The reader 3 started reading a book(-s): 2 
+The reader 4 couldn't take the book 1 (busy).
+The reader 4 couldn't take the book 2 (busy).
+The reader 4 took the book 3.
+The reader 4 started reading a book(-s): 3 
+The reader 3 returned the book 2.
+The reader 4 returned the book 3.
+The reader 4 waits for some time before a special visit for missing books.
+The reader 1 returned the book 1.
+The reader 1 received a notification about the availability of the book 2 and took it.
+The reader 1 started reading a book(-s): 2 
+The reader 5 completed his visits to the library.
+The reader 3 completed his visits to the library.
+The reader 4 received a notification about the availability of the book 1 and took it.
+The reader 6 took the book 0.
+The reader 4 started reading a book(-s): 1 
+The reader 6 started reading a book(-s): 0 
+The reader 4 returned the book 1.
+The reader 6 returned the book 0.
+The reader 1 returned the book 2.
+The reader 4 received a notification about the availability of the book 2 and took it.
+The reader 4 started reading a book(-s): 2 
+The reader 6 completed his visits to the library.
+The reader 4 returned the book 2.
+The reader 1 completed his visits to the library.
+The reader 4 completed his visits to the library.
